@@ -1,5 +1,9 @@
 # AI Log Analyzer
 
+## Live Demo
+
+https://loganalyzerai.streamlit.app/
+
 AI-powered tool for analyzing application logs to identify errors, determine root causes, and suggest fixes using large language models.
 
 ---
